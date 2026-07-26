@@ -11,5 +11,8 @@ my questions on this site were the next:
 
 DAY 2:
 -
-[How to Create a MySQL User and Grant Privileges (Step-by-Step)](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql#2-how-do-i-check-mysql-user-permissions)
-
+[How to Create a MySQL User and Grant Privileges (Step-by-Step)](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql#2-how-do-i-check-mysql-user-permissions) 
+<div align="left" dir="ltr">
+  
+  [ملخص لي](../Archive/1.md)</div>
+  
